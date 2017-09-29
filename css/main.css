@@ -1,0 +1,212 @@
+/*Rogue Pickings - My Solution - Static Design*/
+
+/********** BASE STYLES **********/
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+#header {
+	background-color: white;
+	height: 404px;
+}
+
+#top-section {
+	background-color: white;
+	height: 174px;
+}
+
+#bottom-section {
+	background-color: white;
+	height: 210px;
+}
+
+#footer {
+	background-color: white;
+	height: 80px;
+}
+
+/********** GRID **********/
+
+.full-width {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.half-width {
+	float: left;
+	width: 600px;
+}
+
+.third-width {
+	float: left;
+	width: 400px;
+}
+
+/********** HEADER **********/
+
+h1 {
+	color: #77a466;
+	display: inline-block;
+	font-size: 30px;
+	font-weight: bold;
+	height: 57px;
+	padding: 23px 0px 0px 0px;
+}
+
+h1 span {
+	color: black;
+}
+
+nav {
+    float: right;
+    height: 63px;
+    padding: 33px 0px 0px 0px;
+}
+
+nav ul {
+	text-align: center;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+nav ul li a {
+    color: #77a466;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 20px;
+    text-decoration: none;
+}
+
+img {
+	border-bottom: 3px solid #77a466;
+	border-top: 3px solid #77a466;
+	float: left;
+}
+
+/********** TOP SECTION **********/
+
+h2 {
+	color: #77a466;
+	float: left;
+	font-size: 18px;
+	font-weight: bold;
+	height: 28px;
+	width: 1200px;
+	padding-top: 12px;
+}
+
+#top-section div p {
+	font-size: 16px;
+	height: 101px;
+	line-height: 25px;
+	width: 1200px;
+}
+
+/********** BOTTOM SECTION **********/
+
+h3 {
+	font-size: 12px;
+	font-weight: bold;
+}
+
+#left-wid {
+	border-bottom: 1px solid #dedbdc;
+	border-top: 1px solid #dedbdc;
+	float: left;
+	height: 170px;
+	padding: 20px 30px 20px 0px;
+	width: 370px;
+}
+
+.feat-item-1 {
+	color: #77a466;
+	font-size: 16px;
+	padding-top: 5px;
+}
+
+.feat-item {
+	color: #77a466;
+	font-size: 16px;
+	padding-top: 18px;
+}
+
+.middle-wid {
+	border: 1px solid #dedbdc;
+	float: left;
+	height: 170px;
+	padding: 20px 25px 20px 25px;
+	width: 348px;
+}
+
+.middle-wid p {
+	line-height: 21px;
+}
+
+.right-wid {
+	border-bottom: 1px solid #dedbdc;
+	border-top: 1px solid #dedbdc;
+	float: left;
+	height: 170px;
+	padding: 20px 0px 20px 30px;
+	width: 370px;
+}
+
+.address {
+	font-size: 16px;
+	line-height: 24px;
+	padding-top: 3px;
+}
+
+/********** FOOTER SECTION **********/
+
+.tag-line {
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 23px;
+	padding-top: 30px;
+	text-align: center;
+}
+
+.tag-line span {
+	color: #77a466;
+	font-family: 'Pacifico', cursive;
+	font-weight: normal;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
